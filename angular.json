@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jsn"
+    }
+  },
+  "defaultProject": "jsn",
+  "cli": {
+    "analytics": false
+  }
 }
